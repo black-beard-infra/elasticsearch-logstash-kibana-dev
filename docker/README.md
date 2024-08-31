@@ -1,6 +1,3 @@
-# elasticsearch-logstash-kibana-dev
-elasticsearch logstash kibana for developement environment
-
 ## Compose sample application
 ### Elasticsearch, Logstash, and Kibana (ELK) in single-node
 
